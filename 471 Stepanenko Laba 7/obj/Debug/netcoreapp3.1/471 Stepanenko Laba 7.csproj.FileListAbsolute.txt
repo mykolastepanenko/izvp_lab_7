@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 7.exe
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 7.deps.json
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 7.runtimeconfig.json
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 7.runtimeconfig.dev.json
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 7.dll
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\bin\Debug\netcoreapp3.1\471 Stepanenko Laba 7.pdb
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\obj\Debug\netcoreapp3.1\_471_Stepanenko_Laba_7.Form1.resources
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 7.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 7.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 7.AssemblyInfo.cs
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 7.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 7.dll
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 7.pdb
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 7.genruntimeconfig.cache
+C:\Users\USER\source\repos\471 Stepanenko Laba 7\471 Stepanenko Laba 7\obj\Debug\netcoreapp3.1\471 Stepanenko Laba 7.csprojAssemblyReference.cache

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "471 Stepanenko Laba 7", "471 Stepanenko Laba 7\471 Stepanenko Laba 7.csproj", "{7FCDCFE4-01E7-4E58-B324-6F67C23A9940}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "471 Stepanenko Laba 7", "471 Stepanenko Laba 7\471 Stepanenko Laba 7.csproj", "{7FCDCFE4-01E7-4E58-B324-6F67C23A9940}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "471 Stepanenko Lab 8 Installer", "471 Stepanenko Lab 8 Installer\471 Stepanenko Lab 8 Installer.vdproj", "{8FD6A327-821B-4FDE-9D03-19D9110BA5E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{7FCDCFE4-01E7-4E58-B324-6F67C23A9940}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FCDCFE4-01E7-4E58-B324-6F67C23A9940}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FCDCFE4-01E7-4E58-B324-6F67C23A9940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD6A327-821B-4FDE-9D03-19D9110BA5E1}.Debug|Any CPU.ActiveCfg = Debug
+		{8FD6A327-821B-4FDE-9D03-19D9110BA5E1}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
